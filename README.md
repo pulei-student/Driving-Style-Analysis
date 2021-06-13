@@ -18,7 +18,7 @@ This work is mainly about recovering the article "Driving Style Analysis Using P
       After that, you will get the exact data file as the first method.
 ## Experiments.
    **You should get pyhsmm,fitter,matplolib and the related python library installed in your python interpreter.**
-   1. Fitting all data to get threhold of segmention. ----code: *Python_Code/Data_processing/Fitting_data*
-   2. Get through the whole work. ----code:*Python_Code/Processing_one_event* or *Python_Code/Processing one_person*
-   3. Comparing different drivers' driving style. ----code:*Python_code/Processing_multi_differ*
-   4. Drawing Beta,Gamma distribution figure. ----code:*draw_beta.py* and *draw_gamma.py*
+   1. Fitting all data to get threhold of segmention. ----code:  *Python_Code/Data_processing/Fitting_data*
+   2. Get through the whole work. ----code:  *Python_Code/Processing_one_event* or *Python_Code/Processing one_person*
+   3. Comparing different drivers' driving style. ----code:  *Python_code/Processing_multi_differ*
+   4. Drawing Beta,Gamma distribution figure. ----code:  *draw_beta.py* and *draw_gamma.py*
