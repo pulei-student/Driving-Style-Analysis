@@ -4,7 +4,8 @@ Hello, this is the graduation work of Herbert Gao.
 
 This work is mainly about recovering the article "Driving Style Analysis Using Primitive Driving Patterns With Bayesian Nonparametric Approaches" written by Wenshuo Wang, etc. Besides, this work also includes comparing analysis results with the method of directly going through "Threshold Segmention", which is done without driving pattern analysis.
 
-# To get this work done by yourself, you need to follow the steps:
+To get this work done by yourself, you need to follow the steps:
+
 ## Get data.
    Get data directly from the Baidu Netdisk. Copy this website https://pan.baidu.com/s/1KlDcO_wmKEWInvukWsLyAQ, the keyword is *Hang* .
    The file *car-following* includes all drivers' car-following scenarios data extracted from SPMD dataset using Traffic-Net.
