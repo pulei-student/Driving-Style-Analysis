@@ -23,3 +23,8 @@ This work is mainly about recovering the article "Driving Style Analysis Using P
    2. Get through the whole work. ----code:  *Python_Code/Processing_one_event* or *Python_Code/Processing one_person*
    3. Comparing different drivers' driving style. ----code:  *Python_code/Processing_multi_differ*
    4. Drawing Beta,Gamma distribution figure. ----code:  *draw_beta.py* and *draw_gamma.py*
+### Results.
+You can comparing your results with mine in the file *all_driver_results* and *all_driver_noseg*.
+
+### Plus
+SimHei.ttf is kind of font that you may need in drawing figures.
