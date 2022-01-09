@@ -11,18 +11,24 @@ This work is mainly about recovering the article "Driving Style Analysis Using P
    The file *car-following* includes all drivers' car-following scenarios data extracted from SPMD dataset using Traffic-Net.
    
    **Or**
-   You can try to extract data from SPMD by yourself. You will need MySQL related software to do this. 
+   
+   
+   You can try to extract data from SPMD by yourself. You will need MySQL related software to do this.The recommended software is MySQL workbench. 
    To do this,
-   1. Download data file *DataWsu,DataFrontTarget* from SPMD website https://catalog.data.gov/dataset/safety-pilot-model-deployment-data.
-   2. Use SQL software to process data with the code in file *MySQL_Code*. You can get a .csv file from SQL, which is also included in the Baidu Netdisk.
+   1. Download data files *DataWsu,DataFrontTarget* from SPMD website https://catalog.data.gov/dataset/safety-pilot-model-deployment-data.
+   2. Use your MySQL software to process data with the code in file *MySQL_Code*. Please follow the memo in the file. Differet softwares matter! Finally, you can get a .csv file after processing the whole data. Check the fromat of your data profile with mine downloaded from BaiduNetdisk to see weather you have done rightly.
       Then process the .csv file using *Python* with the code in *Python_code/Data_processing/Car-following.py*. 
       After that, you will get the exact data file as the first method.
+
 ### Experiments.
-   **You should get pyhsmm,fitter,matplolib and the related python library installed in your python interpreter.**
+   **You should get numpy,pybayesics,future,pyhsmm,fitter,matplolib and the related python library installed in your python interpreter. Mind that I have done some changes in pyhsmm to have a better vision of the results.**
+   
+   **Download my pyhsmm library. Get into it. Python .
    1. Fitting all data to get threhold of segmention. ----code:  *Python_Code/Data_processing/Fitting_data*
    2. Get through the whole work. ----code:  *Python_Code/Processing_one_event* or *Python_Code/Processing one_person*
    3. Comparing different drivers' driving style. ----code:  *Python_code/Processing_multi_differ*
    4. Drawing Beta,Gamma distribution figure. ----code:  *draw_beta.py* and *draw_gamma.py*
+
 ### Results.
 You can comparing your results with mine in the file *all_driver_results* and *all_driver_noseg*.
 
