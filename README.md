@@ -1,5 +1,7 @@
 # Driving-Style-Analysis
 
+Please notice that the version 2.0 of this work has been online, please check https://github.com/Herbert-Gao/Revision-2.0-Driving-Style-Analysis-Using-Drving-Patterns-with-Bayesian-Approaches to see more info. After 1 month, this repo will be used for gathering all my recent work in driving analysis.
+
 Hello, this is the graduation work of Herbert Gao. 
 
 This work is mainly about recovering the article "Driving Style Analysis Using Primitive Driving Patterns With Bayesian Nonparametric Approaches" written by Wenshuo Wang, etc. Besides, this work also includes comparing analysis results with the method of directly going through "Threshold Segmention", which is done without driving pattern analysis.
