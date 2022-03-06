@@ -1,6 +1,6 @@
 # Driving-Style-Analysis
 
-Please notice that the version 2.0 of this work has been online, please check https://github.com/Herbert-Gao/Revision-2.0-Driving-Style-Analysis-Using-Drving-Patterns-with-Bayesian-Approaches to see more info. After 1 month, this repo will be used for gathering all my recent work in driving analysis.
+**Please notice that the version 2.0 of this work has been online, please check https://github.com/Herbert-Gao/Revision-2.0-Driving-Style-Analysis-Using-Drving-Patterns-with-Bayesian-Approaches to see more info. After 1 month, this repo will be used for gathering all my recent work in driving analysis.**
 
 Hello, this is the graduation work of Herbert Gao. 
 
